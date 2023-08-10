@@ -1,0 +1,4 @@
+# Ignore everything in Images folder
+/Images/*
+*.png
+/.venv/*
